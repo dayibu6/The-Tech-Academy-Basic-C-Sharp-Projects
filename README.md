@@ -1,1 +1,2 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
+This repository contains my C# projects completed as part of The Tech Academy's curriculum. These projects demonstrate foundational C# programming skills, including variables, conditionals, loops, methods, classes, and more. As I progress through the course, I will continue to update this repository with new and improved code as part of building my professional portfolio.
